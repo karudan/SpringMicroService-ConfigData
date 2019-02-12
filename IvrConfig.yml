@@ -1,4 +1,5 @@
 # Ivr Default Values
+A_APP_VERSION=0.1
 default_attributes:
  #APP version
  A_APP_VERSION=0.1
