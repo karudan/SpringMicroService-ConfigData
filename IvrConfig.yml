@@ -1,3 +1,13 @@
+
+---
+# Items that apply to ALL profiles:
+eureka:
+  client:
+    serviceUrl:
+defaultZone: http://localhost:8011/eureka/
+
+
+
 # Ivr Default Values
 A_APP_VERSION=0.1
 default_attributes:
