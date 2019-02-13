@@ -11,7 +11,7 @@ defaultZone: http://localhost:8011/eureka/
 A_APP_VERSION=0.1
 default_attributes:
  #APP version
- A_APP_VERSION=0.1
+ A_APP_VERSION=0.2
  
  # Media server IP
  A_MEDIA_SERVER_IP=192.168.10.184
