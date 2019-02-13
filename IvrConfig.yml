@@ -8,7 +8,7 @@ defaultZone: http://localhost:8010/eureka/
 
 ---
 # Ivr Default Values
-A_APP_VERSION=0.1
+A_APP_VERSIONS=0.1
 default_attributes:
  #APP version
  A_APP_VERSION=0.2
